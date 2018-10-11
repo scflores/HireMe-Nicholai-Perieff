@@ -1,0 +1,29 @@
+body {
+    background-color: blue ;
+}
+p,h1 {
+    font-family: Abril Fatface ;
+    font-size: 30px ;
+}
+h2 {
+    font-family: Pacifico ;
+    font-size: 30px ;
+    color: white ;
+}
+li {
+    font-family: Playfair Display SC ;
+    font-size: 30px ;
+}
+p {
+    font-family: Playfair Display SC ;
+}
+h1 {
+    color: white ;
+
+}
+img {
+    width: 400px ;
+}
+a {
+    color:white;
+}
